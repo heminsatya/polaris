@@ -29,7 +29,7 @@ You can use Polaris Plugins alongside Polaris Core to get more features and comp
 - [Slideshow Plugin](https://github.com/heminsatya/polaris-slideshow) (v1.4.7)
 
 
-## Polaris Layouts (v1.4.0)
+## Polaris Layouts (v1.4.1)
 
 [Polaris Layouts](https://github.com/heminsatya/polaris-layouts) contains a couple of simple responsive HTML layouts for Polaris Framework, that you can use as blueprints for your templates.
 
