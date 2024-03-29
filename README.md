@@ -26,7 +26,7 @@ You can use Polaris Plugins alongside Polaris Core to get more features and comp
 - [Sizing Plugin](https://github.com/heminsatya/polaris-sizing) (v1.2.3)
 - [Spacing Plugin](https://github.com/heminsatya/polaris-spacing) (v1.2.3)
 - [Position Plugin](https://github.com/heminsatya/polaris-position) (v1.3.4)
-- [Slideshow Plugin](https://github.com/heminsatya/polaris-slideshow) (v1.5.1)
+- [Slideshow Plugin](https://github.com/heminsatya/polaris-slideshow) (v1.6.0)
 
 
 ## Polaris Layouts (v1.4.1)
