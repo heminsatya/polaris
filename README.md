@@ -9,7 +9,7 @@ Polaris framework is divided into two parts: **Core** & **Plugins**
 > For full details about each one, please refer to their own repository. (Use the links)
 
 
-## Polaris Core (v0.9.16 Beta)
+## Polaris Core (v0.9.17 Beta)
 
 [Polaris Core](https://github.com/heminsatya/polaris-core) consists of generic components and features that almost every web application needs.
 
