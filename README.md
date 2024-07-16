@@ -5,13 +5,10 @@ Polaris is a front-end web framework for creating responsive UI components, with
 Polaris framework is divided into two parts: **Core** & **Plugins**
 
 > Notice!
-> This repo only contains information (links, and versions) about **Polaris Core** & **Polaris Plugins**.
+> This repo only contains information (links, and versions) about **Polaris Plugins**.
 > For full details about each one, please refer to their own repository. (Use the links)
 
-
-## Polaris Core (v0.9.17 Beta)
-
-[Polaris Core](https://github.com/heminsatya/polaris-core) consists of generic components and features that almost every web application needs.
+> Notice! This repository belongs to **Polaris Plugins** only. For more details please check the [Main Repository](https://github.com/heminsatya/polaris).
 
 
 ## Polaris Plugins
@@ -20,16 +17,16 @@ Polaris Core comes only with necessary features and components. However, for a r
 
 You can use Polaris Plugins alongside Polaris Core to get more features and components:
 
-- [Colors Plugin](https://github.com/heminsatya/polaris-colors) (v1.4.3)
-- [font-size Plugin](https://github.com/heminsatya/polaris-font-size) (v1.3.5)
-- [line-height Plugin](https://github.com/heminsatya/polaris-line-height) (v1.3.4)
-- [Sizing Plugin](https://github.com/heminsatya/polaris-sizing) (v1.2.3)
-- [Spacing Plugin](https://github.com/heminsatya/polaris-spacing) (v1.2.3)
-- [Position Plugin](https://github.com/heminsatya/polaris-position) (v1.3.4)
-- [Slideshow Plugin](https://github.com/heminsatya/polaris-slideshow) (v1.6.0)
+- [Colors Plugin](https://github.com/heminsatya/polaris-colors) (v1.5.1)
+- [font-size Plugin](https://github.com/heminsatya/polaris-font-size) (v1.4.0)
+- [line-height Plugin](https://github.com/heminsatya/polaris-line-height) (v1.4.1)
+- [Sizing Plugin](https://github.com/heminsatya/polaris-sizing) (v1.3.0)
+- [Spacing Plugin](https://github.com/heminsatya/polaris-spacing) (v1.3.0)
+- [Position Plugin](https://github.com/heminsatya/polaris-position) (v1.4.1)
+- [Slideshow Plugin](https://github.com/heminsatya/polaris-slideshow) (v1.7.0)
 
 
-## Polaris Layouts (v1.4.1)
+## Polaris Layouts (v1.5.0)
 
 [Polaris Layouts](https://github.com/heminsatya/polaris-layouts) contains a couple of simple responsive HTML layouts for Polaris Framework, that you can use as blueprints for your templates.
 
