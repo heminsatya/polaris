@@ -5,10 +5,13 @@ Polaris is a front-end web framework for creating responsive UI components, with
 Polaris framework is divided into two parts: **Core** & **Plugins**
 
 > Notice!
-> This repo only contains information (links, and versions) about **Polaris Plugins**.
+> This repo only contains information (links, and versions) about **Polaris Core** & **Polaris Plugins**.
 > For full details about each one, please refer to their own repository. (Use the links)
 
-> Notice! This repository belongs to **Polaris Plugins** only. For more details please check the [Main Repository](https://github.com/heminsatya/polaris).
+
+## Polaris Core (v1.0.0)
+
+[Polaris Core](https://github.com/heminsatya/polaris-core) consists of generic components and features that almost every web application needs.
 
 
 ## Polaris Plugins
